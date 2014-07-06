@@ -1,7 +1,7 @@
 /*
  * Project Name: DHT11 Arduino Thermostate
  * Author: Immanuel Sterzik
- * License: MIT
+ * License: GPL v3
  */
 
 
